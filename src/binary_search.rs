@@ -11,7 +11,6 @@ pub fn index_of(arr: &[i32], key: i32) -> usize {
 	}
 }
 
-
 #[test]
 fn it_works() {
 	let xs: [i32; 5] = [1, 2, 3, 4, 5];
